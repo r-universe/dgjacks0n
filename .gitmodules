@@ -5,4 +5,3 @@
 [submodule "envDocument"]
 	path = envDocument
 	url = https://github.com/dgjacks0n/envdocument
-	subdir = envDocument
